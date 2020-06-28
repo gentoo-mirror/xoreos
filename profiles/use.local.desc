@@ -6,3 +6,4 @@ app-misc/phaethon:lto - Compile with link-time optimization
 app-misc/xoreos-tools:lto - Compile with link-time optimization
 games-engines/xoreos:faad - Enable AAC audio decoding library support via media-libs/faad2
 games-engines/xoreos:lto - Compile with link-time optimization
+games-engines/xoreos:vpx - Enable VP8/VP9 codec support via media-libs/libvpx
